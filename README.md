@@ -1,0 +1,1 @@
+Amusic Player is a lightweight and user-friendly music player application designed to offer a seamless music listening experience. Whether you’re a casual listener or an audiophile, Amusic Player provides a clean and intuitive interface with all the essential features you need to enjoy your favorite tracks.:https://ankitjha1165.github.io/Music-player-project/
